@@ -11,7 +11,11 @@
    - Data Processing: Used Python for data cleaning and preparation.
    - Exploratory Data Analysis (EDA): Conducted exploratory analysis to identify patterns and relationships.
    - Visualization: Created visualizations to understand how beliefs and knowledge about financial concepts impact financial well-being scores.
-  #### Power BI Analysis
+ #### Power BI Analysis
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
   - Dashboards: Created interactive dashboards to visualize and explore demographic data.
-   
+
+ #### Machine Learning Model Development
+   - from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+
