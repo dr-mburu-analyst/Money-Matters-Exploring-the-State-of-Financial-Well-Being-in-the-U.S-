@@ -14,7 +14,9 @@
  #### Power BI Analysis
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
   - Dashboards: Created interactive dashboards to visualize and explore demographic data.
+    
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+   
  #### Machine Learning Model Development Process
  ##### Data Splitting:
    - from sklearn.model_selection import train_test_split
