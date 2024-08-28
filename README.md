@@ -14,7 +14,7 @@
  #### Power BI Analysis
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
   - Dashboards: Created interactive dashboards to visualize and explore demographic data.
-
+   ![Pima_Indians_Diabetes](images/Count%20of%20Diabetes%20Outcome.png)
  #### Machine Learning Model Development Process
  ##### Data Splitting:
    - from sklearn.model_selection import train_test_split
