@@ -16,7 +16,7 @@
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20LongTermReturns.png)
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
 
