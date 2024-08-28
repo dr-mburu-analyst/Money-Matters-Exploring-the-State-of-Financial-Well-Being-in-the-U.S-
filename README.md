@@ -11,6 +11,19 @@
    - Data Processing: Used Python for data cleaning and preparation.
    - Exploratory Data Analysis (EDA): Conducted exploratory analysis to identify patterns and relationships.
    - Visualization: Created visualizations to understand how beliefs and knowledge about financial concepts impact financial well-being scores.
+  
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+   
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+   
  #### Power BI Analysis
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
   - Dashboards: Created interactive dashboards to visualize and explore demographic data.
