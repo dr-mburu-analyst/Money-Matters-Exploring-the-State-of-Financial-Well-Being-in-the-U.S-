@@ -70,16 +70,16 @@ r2 = r2_score(y_test, y_pred)
 #### Recommendations
 1. **Enhance Financial Literacy Programs**:
 - Targeted Education: Focus on financial concepts for younger individuals and those with lower educational attainment.
-- Integrate into School Curriculums: Advocate for financial education from an early age.
+  - Integrate into School Curriculums: Advocate for financial education from an early age.
 2. **Promote Health and Well-Being Initiatives**:
-- Holistic Programs: Combine health and financial wellness programs.
-- Mental Health Support: Offer resources for stress management.
+  - Holistic Programs: Combine health and financial wellness programs.
+  - Mental Health Support: Offer resources for stress management.
 3. **Provide Tailored Financial Planning Resources**:
-- Customized Advice: Develop personalized financial advice based on demographic profiles.
-- Focus on Retirement Planning: Help younger generations learn from older generations’ practices.
+  - Customized Advice: Develop personalized financial advice based on demographic profiles.
+  - Focus on Retirement Planning: Help younger generations learn from older generations’ practices.
 4.**Encourage Long-Term Financial Stability**:
-- Promote Savings and Investment: Emphasize the importance of regular savings and investments.
-- Increase Awareness of Shared Financial Responsibilities: Provide resources on the benefits of shared responsibilities in marital relationships.
+  - Promote Savings and Investment: Emphasize the importance of regular savings and investments.
+  - Increase Awareness of Shared Financial Responsibilities: Provide resources on the benefits of shared responsibilities in marital relationships.
 
 
 
