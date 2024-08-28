@@ -15,7 +15,54 @@
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
   - Dashboards: Created interactive dashboards to visualize and explore demographic data.
 
- #### Machine Learning Model Development
+ #### Machine Learning Model Development Process
+ ##### Data Splitting:
    - from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+##### Feature Scaling:
+from sklearn.preprocessing import StandardScaler
+
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+##### Model Selection and Training:
+from sklearn.ensemble import GradientBoostingRegressor
+
+model = GradientBoostingRegressor()
+model.fit(X_train, y_train)
+##### Model Tuning:
+###### Hyperparameter Tuning:
+from sklearn.model_selection import GridSearchCV
+
+param_grid = {
+    'learning_rate': [0.01, 0.1, 0.2],
+    'max_depth': [3, 4, 5],
+    'n_estimators': [50, 100, 150]
+}
+
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=5, scoring='neg_mean_squared_error')
+grid_search.fit(X_train, y_train)
+best_params = grid_search.best_params_
+
+Best Settings:
+Learning Rate: 0.1
+Max Depth: 3
+Number of Estimators: 100
+###### Cross-Validation: 
+Ensured the model's generalizability
+##### Model Evaluation:
+from sklearn.metrics import mean_squared_error, r2_score
+
+y_pred = model.predict(X_test)
+mse = mean_squared_error(y_test, y_pred)
+r2 = r2_score(y_test, y_pred)
+
+
+
+
+
+
+
+
+
 
