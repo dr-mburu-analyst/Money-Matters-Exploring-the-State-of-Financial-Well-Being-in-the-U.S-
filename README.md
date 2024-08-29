@@ -24,7 +24,17 @@ The histogram displays a normal distribution centered around the mean, with data
    
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Skills.png)
 
+   Sample Size (N): 6,394
+Mean: 50.78
+Standard Deviation: 12.52
+Minimum: 5
+Median: 50
+Maximum: 85
+Shape: The histogram shows a distribution with a positive skew (skewness = 0.287), indicating a rightward tail.
+
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Skills.png)
+
+Pearson r = 0.49 indicates a moderate correlation between financial skills and financial well-being.
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Financial%20Skills.png)
 
