@@ -14,6 +14,21 @@
    - Exploratory Data Analysis (EDA): Conducted exploratory analysis to identify patterns and relationships.
    - Visualization: Created visualizations to understand how beliefs and knowledge about financial concepts impact financial well-being scores.
   
+#### Python Libraries used
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.model_selection import GridSearchCV
+from scipy.stats import pearsonr
+
+![image](https://github.com/user-attachments/assets/e9f37e89-7619-43b3-a4da-f1576b1163b5)
+
+  
 ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Wellbeing.png)
 
 Sample Size (N): 6,394
