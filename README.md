@@ -118,7 +118,13 @@ y_pred = model.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
- ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+ ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Perfoamnce%20Metric%20model.png)
+ 
+Negative correlation between MSE(measures prediction error) and R^2(accuracy)
+High MSE => Low R^2
+Low MSE => High R^2
+
+
    
 
 ### Analysis and Insights
