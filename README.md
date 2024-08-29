@@ -13,6 +13,14 @@
    - Visualization: Created visualizations to understand how beliefs and knowledge about financial concepts impact financial well-being scores.
   
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Wellbeing.png)
+
+Sample Size (N): 6,394
+Mean: 56.08
+Standard Deviation: 14.06
+Minimum: 14
+Median: 56
+Maximum: 95
+The histogram displays a normal distribution centered around the mean, with data points spread symmetrically around it
    
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Skills.png)
 
