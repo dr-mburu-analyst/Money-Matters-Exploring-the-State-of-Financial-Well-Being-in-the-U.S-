@@ -33,22 +33,40 @@ Maximum: 85
 Shape: The histogram shows a distribution with a positive skew (skewness = 0.287), indicating a rightward tail.
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Financial%20Skills.png)
-   Pearson r = 0.49 indicates a moderate correlation between financial skills and financial well-being.
+ Pearson r = 0.49 indicates a moderate correlation between financial skills and financial well-being.
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
 
+On the belief that housing prices in the US can never go down, those who believe the statement is false have a higher average financial well-being score (56.7) 
+compared to those who believe the statement is true. 
+
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20LongTermReturns.png)
+   
+ In terms of long-term investment(10-20 years), stocks have the highest average financial well-being score (58.8), compared to bonds(52.7) and savings accounts (48.7).
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20by%20BondsInterestRates.png)
 
+Regarding the impact of rising interest rates on bond prices: Those who expect bond prices to fall have the highest average financial well-being score (59.0), compared 
+to those who expect bond prices to rise (55.9) and those who believe bond prices will stay the same (52.9).
+
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
-   
+
+ On the belief that housing prices in the US can never go down, those who believe the statement is false have a higher average financial well-being score (56.7) 
+ compared to those who believe the statement is true. 
+
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Mortgage%20Interest%20Rate.png)
+   
+ Regarding the statement that a 15-year mortgage requires higher monthly payments but results in less total interest paid compared to a 30-year mortgage, those 
+ who answered ‘True’ have a higher average financial well-being score (56.6) than those who answered ‘False’ (51.0).
   
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20StocksVsBondsVolatility.png)
    
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Correlation%20Heatmap.png)
-   
+ Warm colors = High positive correlations
+Cooler colors = High negative correlations
+Neutral colors = No correlations
+
+
    
  #### Power BI Analysis
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
