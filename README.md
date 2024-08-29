@@ -12,7 +12,7 @@
    - Exploratory Data Analysis (EDA): Conducted exploratory analysis to identify patterns and relationships.
    - Visualization: Created visualizations to understand how beliefs and knowledge about financial concepts impact financial well-being scores.
   
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Wellbeing.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Wellbeing.png)
 
 Sample Size (N): 6,394
 Mean: 56.08
@@ -22,7 +22,7 @@ Median: 56
 Maximum: 95
 The histogram displays a normal distribution centered around the mean, with data points spread symmetrically around it
    
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Skills.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Skills.png)
 
    Sample Size (N): 6,394
 Mean: 50.78
@@ -32,36 +32,36 @@ Median: 50
 Maximum: 85
 Shape: The histogram shows a distribution with a positive skew (skewness = 0.287), indicating a rightward tail.
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Financial%20Skills.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Financial%20Skills.png)
  Pearson r = 0.49 indicates a moderate correlation between financial skills and financial well-being.
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
+ ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
 
 On the belief that housing prices in the US can never go down, those who believe the statement is false have a higher average financial well-being score (56.7) 
 compared to those who believe the statement is true. 
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20LongTermReturns.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20LongTermReturns.png)
    
  In terms of long-term investment(10-20 years), stocks have the highest average financial well-being score (58.8), compared to bonds(52.7) and savings accounts (48.7).
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20by%20BondsInterestRates.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20by%20BondsInterestRates.png)
 
 Regarding the impact of rising interest rates on bond prices: Those who expect bond prices to fall have the highest average financial well-being score (59.0), compared 
 to those who expect bond prices to rise (55.9) and those who believe bond prices will stay the same (52.9).
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
 
  On the belief that housing prices in the US can never go down, those who believe the statement is false have a higher average financial well-being score (56.7) 
  compared to those who believe the statement is true. 
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Mortgage%20Interest%20Rate.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Mortgage%20Interest%20Rate.png)
    
  Regarding the statement that a 15-year mortgage requires higher monthly payments but results in less total interest paid compared to a 30-year mortgage, those 
  who answered ‘True’ have a higher average financial well-being score (56.6) than those who answered ‘False’ (51.0).
   
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20StocksVsBondsVolatility.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20StocksVsBondsVolatility.png)
    
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Correlation%20Heatmap.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Correlation%20Heatmap.png)
  Warm colors = High positive correlations
 Cooler colors = High negative correlations
 Neutral colors = No correlations
@@ -72,8 +72,8 @@ Neutral colors = No correlations
  
   - Demographic Analysis: Used Power BI to create visualizations and dashboards analyzing the impact of demographic factors such as household income, education level, age, generation, and ethnicity on financial well-being scores.
   - Dashboards: Created interactive dashboards to visualize and explore demographic data.
-    
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
+
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20Wellbeing%20Power%20BI%20Dashboard.png)
    
    
  ### Machine Learning Model Development Process
@@ -118,7 +118,7 @@ y_pred = model.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
- ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Perfoamnce%20Metric%20model.png)
+![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Perfoamnce%20Metric%20model.png)
  
 Negative correlation between MSE(measures prediction error) and R^2(accuracy)
 High MSE => Low R^2
