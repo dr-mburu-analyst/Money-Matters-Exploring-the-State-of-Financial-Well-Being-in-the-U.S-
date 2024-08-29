@@ -18,8 +18,7 @@
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Distribution%20of%20Financial%20Skills.png)
 
-   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20DiversificationBenefits.png)
-
+   ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Financial%20well%20being%20by%20Financial%20Skills.png)
 
    ![Money-Matters-Exploring-the-State-of-Financial-Well-Being-in-the-U.S](images/Average%20Financial%20Wellbeing%20by%20HousingMarketLosses.png)
 
